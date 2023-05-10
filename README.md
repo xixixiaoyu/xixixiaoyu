@@ -2,9 +2,9 @@
 
 Now I'm a web frontend developer.
 
-掘金：[云牧](https://juejin.cn/user/1530130204207822) 
-BiliBili：[云下牧羊人](https://space.bilibili.com/145679856?spm_id_from=333.337.0.0)
-个人博客：[大前端](https://xixixiaoyu.github.io/fe-blog-website/)
+掘金：[云牧](https://juejin.cn/user/1530130204207822) /
+BiliBili：[云下牧羊人](https://space.bilibili.com/145679856?spm_id_from=333.337.0.0) / 
+个人博客：[大前端](https://xixixiaoyu.github.io/fe-blog-website/) / 
 LeetCode：https://leetcode.cn/u/xixixiaoyu/
 
 **Languages and Tools:**  
