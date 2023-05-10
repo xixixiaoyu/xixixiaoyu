@@ -11,5 +11,3 @@ Now I'm a web frontend developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://i.328888.xyz/2023/05/10/iYmdAk.png"></code>
-
-[![ssh's github stats](https://github-readme-stats.vercel.app/api?username=sl1673495)](https://github.com/anuraghazra/github-readme-stats)
