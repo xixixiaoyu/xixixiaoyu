@@ -2,8 +2,8 @@
 
 Now I'm a web frontend developer.
 
-掘金：[云牧](https://juejin.cn/user/1530130204207822) /
-BiliBili：[云下牧羊人](https://space.bilibili.com/145679856?spm_id_from=333.337.0.0) / 
+掘金：[云牧code](https://juejin.cn/user/1530130204207822) /
+BiliBili：[云牧code](https://space.bilibili.com/145679856?spm_id_from=333.337.0.0) / 
 个人博客：[前端全栈](https://xixixiaoyu.github.io/fe-blog-website/) / 
 LeetCode：[云牧](https://leetcode.cn/u/yun-mu-z/)
 
